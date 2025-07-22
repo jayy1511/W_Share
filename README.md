@@ -1,6 +1,6 @@
-# 🔐 SecuShare - Secure File Sharing Platform
+# 🔐 W_Share - Secure File Sharing Platform
 
-**SecuShare** is a secure file-sharing web application that enables users to encrypt files in the browser, share them via one-time links, and ensure end-to-end security with advanced access controls and admin analytics.
+**W_Share** is a secure file-sharing web application that enables users to encrypt files in the browser, share them via one-time links, and ensure end-to-end security with advanced access controls and admin analytics.
 
 ---
 
@@ -79,8 +79,8 @@ Check out the full system architecture in the diagram below:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/secushare.git
-cd secushare
+git clone https://github.com/jayy1511/W_Share.git
+cd W_Share
 
 # Install dependencies
 npm install  # or pip install -r requirements.txt for Python backend
